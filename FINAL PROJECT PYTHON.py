@@ -168,4 +168,3 @@ def run_grade_manager():
         else:
             print("Please enter a number from 1 to 7!")
 run_grade_manager()
-
